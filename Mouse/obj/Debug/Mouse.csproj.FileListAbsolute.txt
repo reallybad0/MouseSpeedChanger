@@ -1,0 +1,15 @@
+C:\Users\Starman\Desktop\Mouse\Mouse\bin\Debug\Mouse.exe.config
+C:\Users\Starman\Desktop\Mouse\Mouse\bin\Debug\Mouse.exe
+C:\Users\Starman\Desktop\Mouse\Mouse\bin\Debug\Mouse.pdb
+C:\Users\Starman\Desktop\Mouse\Mouse\obj\Debug\Mouse.csprojResolveAssemblyReference.cache
+C:\Users\Starman\Desktop\Mouse\Mouse\obj\Debug\MainWindow.g.cs
+C:\Users\Starman\Desktop\Mouse\Mouse\obj\Debug\App.g.cs
+C:\Users\Starman\Desktop\Mouse\Mouse\obj\Debug\Mouse_MarkupCompile.cache
+C:\Users\Starman\Desktop\Mouse\Mouse\obj\Debug\Mouse_MarkupCompile.lref
+C:\Users\Starman\Desktop\Mouse\Mouse\obj\Debug\MainWindow.baml
+C:\Users\Starman\Desktop\Mouse\Mouse\obj\Debug\Mouse.g.resources
+C:\Users\Starman\Desktop\Mouse\Mouse\obj\Debug\Mouse.Properties.Resources.resources
+C:\Users\Starman\Desktop\Mouse\Mouse\obj\Debug\Mouse.csproj.GenerateResource.Cache
+C:\Users\Starman\Desktop\Mouse\Mouse\obj\Debug\Mouse.csproj.CoreCompileInputs.cache
+C:\Users\Starman\Desktop\Mouse\Mouse\obj\Debug\Mouse.exe
+C:\Users\Starman\Desktop\Mouse\Mouse\obj\Debug\Mouse.pdb
